@@ -1,0 +1,235 @@
+{
+ "key": "ac4e3e0f",
+ "stars": 0,
+ "contributions": 47,
+ "repos": 10,
+ "followers": 0,
+ "languages": [
+  [
+   "Kotlin",
+   59582
+  ],
+  [
+   "CSS",
+   6142
+  ],
+  [
+   "Lua",
+   5222
+  ],
+  [
+   "C",
+   4450
+  ],
+  [
+   "KakouneScript",
+   3125
+  ],
+  [
+   "Haskell",
+   1834
+  ],
+  [
+   "Vim Script",
+   1098
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 1,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 21,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 2
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "twiligion",
+   "url": "https://github.com/twiligion/twiligion",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "alacritty",
+   "url": "https://github.com/twiligion/alacritty",
+   "text": "Patch to add support to Alacritty for graphics (Sixel and iTerm2 protocols)",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "NothingAIstudio",
+   "url": "https://github.com/twiligion/NothingAIstudio",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "FreesmLauncher",
+   "url": "https://github.com/twiligion/FreesmLauncher",
+   "text": "A Prism Launcher fork aimed to provide a free way to play Minecraft",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "testact",
+   "url": "https://github.com/twiligion/testact",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Hyprspace",
+   "url": "https://github.com/twiligion/Hyprspace",
+   "text": "Workspace overview plugin for Hyprland",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "cports",
+   "url": "https://github.com/twiligion/cports",
+   "text": "Chimera ports collection",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "full-configdir",
+   "url": "https://github.com/twiligion/full-configdir",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "my-dotfiles",
+   "url": "https://github.com/twiligion/my-dotfiles",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "tuwum",
+   "url": "https://github.com/twiligion/tuwum",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  }
+ ]
+}
