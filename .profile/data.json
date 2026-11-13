@@ -1,7 +1,7 @@
 {
- "key": "a9d9b0af",
+ "key": "8388aa64",
  "stars": 0,
- "contributions": 70,
+ "contributions": 72,
  "repos": 13,
  "followers": 0,
  "languages": [
@@ -26,12 +26,12 @@
    13996
   ],
   [
-   "CSS",
-   6142
+   "Python",
+   6701
   ],
   [
-   "Python",
-   4574
+   "CSS",
+   6142
   ]
  ],
  "days": [
@@ -131,11 +131,15 @@
     "today": false
    },
    {
-    "c": 11,
+    "c": 13,
     "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
     "today": true
    },
-   null,
    null
   ]
  ],
