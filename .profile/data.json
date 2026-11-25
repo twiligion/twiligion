@@ -1,5 +1,5 @@
 {
- "key": "dd79a180",
+ "key": "d594d75f",
  "stars": 0,
  "contributions": 78,
  "repos": 14,
@@ -123,9 +123,13 @@
    {
     "c": 0,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
